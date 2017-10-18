@@ -1,0 +1,11 @@
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\bin\Debug\netcoreapp1.1\VsLayout.deps.json
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\bin\Debug\netcoreapp1.1\VsLayout.runtimeconfig.json
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\bin\Debug\netcoreapp1.1\VsLayout.runtimeconfig.dev.json
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\bin\Debug\netcoreapp1.1\VsLayout.dll
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\bin\Debug\netcoreapp1.1\VsLayout.pdb
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\obj\Debug\netcoreapp1.1\VsLayout.csprojResolveAssemblyReference.cache
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\obj\Debug\netcoreapp1.1\VsLayout.csproj.CoreCompileInputs.cache
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\obj\Debug\netcoreapp1.1\VsLayout.AssemblyInfo.cs
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\obj\Debug\netcoreapp1.1\VsLayout.dll
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\obj\Debug\netcoreapp1.1\VsLayout.pdb
+E:\Work\Project\NepalTech\VS layout\VsLayout\VsLayout\obj\Debug\netcoreapp1.1\VsLayout.AssemblyInfoInputs.cache

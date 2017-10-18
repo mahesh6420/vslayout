@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "wwwroot/scss/footer.css",
+    "inputFile": "wwwroot/scss/footer.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/master.css",
+    "inputFile": "wwwroot/scss/master.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/bootstrap.css",
+    "inputFile": "wwwroot/scss/bootstrap.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/topmenu.css",
+    "inputFile": "wwwroot/scss/topmenu.scss"
+  },
+  {
+    "outputFile": "wwwroot/scss/side_menu.css",
+    "inputFile": "wwwroot/scss/side_menu.scss"
+  }
+]

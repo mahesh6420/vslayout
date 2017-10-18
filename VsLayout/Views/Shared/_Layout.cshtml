@@ -1,0 +1,29 @@
+﻿@inject Microsoft.ApplicationInsights.AspNetCore.JavaScriptSnippet JavaScriptSnippet
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - VsLayout</title>
+
+    @Html.Partial("cssAndjs/shared_css/head_css")
+    @Html.Raw(JavaScriptSnippet.FullScript)
+</head>
+<body>
+    @Html.Partial("top_menu")
+    <div class="ms-body">
+        @* sidebar *@
+        @Html.Partial("side_menu")
+        <div class="main-body">
+            @RenderSection("breadcrumb", required: false)
+            @RenderBody()
+        </div>
+        
+        @Html.Partial("footer")
+    </div>
+
+    @Html.Partial("cssAndjs/shared_js/bottom_js")
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
